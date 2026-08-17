@@ -6,7 +6,7 @@ An interactive **Amazon Sales Analysis Dashboard** built using **Microsoft Power
 
 ## 📌 Dashboard Preview
 
-![Amazon Sales Dashboard](Dashboard/dashboard.png)
+![Amazon Sales Dashboard](screenshots/amazon_sales_dashboard.png)
 
 ---
 
